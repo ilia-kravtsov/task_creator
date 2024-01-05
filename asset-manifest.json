@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ilia-kravtsov/task_creator/static/css/main.36b95bf7.css",
+    "main.js": "/ilia-kravtsov/task_creator/static/js/main.9ddd1d28.js",
+    "index.html": "/ilia-kravtsov/task_creator/index.html",
+    "main.36b95bf7.css.map": "/ilia-kravtsov/task_creator/static/css/main.36b95bf7.css.map",
+    "main.9ddd1d28.js.map": "/ilia-kravtsov/task_creator/static/js/main.9ddd1d28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b95bf7.css",
+    "static/js/main.9ddd1d28.js"
+  ]
+}
